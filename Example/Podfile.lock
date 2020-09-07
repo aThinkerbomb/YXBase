@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - YXBase (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - YXBase (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  YXBase:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  YXBase: b388e04e8ff34cb80d0ab5fbb143bc69bb98eb99
+
+PODFILE CHECKSUM: 8ffbc5e65c89c8091a39a94596b28f668fc55f35
+
+COCOAPODS: 1.9.3

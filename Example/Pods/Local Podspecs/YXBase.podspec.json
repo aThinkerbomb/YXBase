@@ -1,0 +1,22 @@
+{
+  "name": "YXBase",
+  "version": "0.1.0",
+  "summary": "A short description of YXBase.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zyx466270590@outlook.com/YXBase",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zyx466270590@outlook.com": "zyx466270590@outlook.com"
+  },
+  "source": {
+    "git": "https://github.com/zyx466270590@outlook.com/YXBase.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YXBase/Classes/**/*"
+}
