@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.description      = '一个演示的项目'
 
-  s.homepage         = 'https://github.com/aThinkerbomb/YXBase.git'
+  s.homepage         = 'https://github.com/aThinkerbomb/YXBase'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'zyx466270590@outlook.com' => 'zyx466270590@outlook.com' }
